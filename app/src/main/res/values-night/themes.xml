@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.CampusDB" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/campus_teal</item>
+        <item name="colorPrimaryVariant">@color/campus_light_teal</item>
+        <item name="colorOnPrimary">@color/campus_white</item>
+        <item name="android:windowBackground">@color/campus_background</item>
+    </style>
+</resources>
