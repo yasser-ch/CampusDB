@@ -27,6 +27,12 @@ Construire une application Android de gestion des étudiants basée sur une base
 | Rechercher/Supprimer| Saisir un ID → Rechercher ou Supprimer           |
 
 ---
+## DEMO 
+
+
+https://github.com/user-attachments/assets/d3f314e5-9993-4f7f-82e7-62f16e61b19e
+
+
 
 ## Structure du Projet
 
